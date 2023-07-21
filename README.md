@@ -1,13 +1,13 @@
 # Mini-Python-Project
-#There are 6 mini Projects related about Data Analysis
+#There are 6 mini Projects related to Data Analysis.
 
 😊 For Project 1: Analysis of Daily Stock Returns and Exploration of Trading 
-Step1-Calculate Mean and Standard Deviation
-Step2-Summarize Results Across Years
-Step3-Compare Returns on Different Days
-Step4-Analyze Patterns Across Days and Years 
-Step5-Compute Best and Worst Days to Invest
-Step6-Evaluate Oracle Strategy and Buy-and-Hold
+#Step1-Calculate Mean and Standard Deviation
+#Step2-Summarize Results Across Years
+#Step3-Compare Returns on Different Days
+#Step4-Analyze Patterns Across Days and Years 
+#Step5-Compute Best and Worst Days to Invest
+#Step6-Evaluate Oracle Strategy and Buy-and-Hold
 
 😊 For Project 2: Time series forecasting model
 Step1-Create True Labels
