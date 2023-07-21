@@ -2,7 +2,7 @@
 #There are 6 mini Projects related to Data Analysis.
 
 😊 For Project 1: Analysis of Daily Stock Returns and Exploration of Trading 
-#Step1-Calculate Mean and Standard Deviation
+Step1-Calculate Mean and Standard Deviation
 #Step2-Summarize Results Across Years
 #Step3-Compare Returns on Different Days
 #Step4-Analyze Patterns Across Days and Years 
