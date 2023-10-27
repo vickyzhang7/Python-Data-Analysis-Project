@@ -1,4 +1,4 @@
-# Mini-Python-Project
+# Python-Project
 #There are 6 mini Projects related to Data Analysis.
 
 😊 For Project 1: Analysis of Daily Stock Returns and Exploration of Trading 
